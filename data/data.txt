@@ -1,0 +1,7 @@
+Japon::a::4
+Colombia::a::3
+Colombia::c::4
+Ecuador::b::2
+Venezuela::a::1
+Argentina::c::2
+Brasil::b::7
